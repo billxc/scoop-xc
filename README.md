@@ -1,3 +1,11 @@
+A Repo generated from [https://github.com/ScoopInstaller/BucketTemplate]  
+Xc's personal [SCOOP](https://scoop.sh) bucket repo
+
+
+----------------------------------------------------------------------------------------
+Original Readme.md below 👇👇👇👇👇
+----------------------------------------------------------------------------------------
+
 # Scoop Bucket Template
 
 <!-- Uncomment the following line after replacing placeholders -->
