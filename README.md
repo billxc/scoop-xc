@@ -1,4 +1,4 @@
-A Repo generated from [https://github.com/ScoopInstaller/BucketTemplate]  
+A Repo generated from [ScoopInstaller/BucketTemplate](https://github.com/ScoopInstaller/BucketTemplate)  
 Xc's personal [SCOOP](https://scoop.sh) bucket repo
 
 
